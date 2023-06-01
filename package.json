@@ -1,0 +1,12 @@
+{
+  "name": "storybook-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.6.0",
+  "workspaces": [
+    "storybook",
+    "test1",
+    "test2"
+  ]
+}
